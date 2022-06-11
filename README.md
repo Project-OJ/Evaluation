@@ -4,7 +4,7 @@
 ```
 pip install requirements.txt
 ```
-也可以手動下在缺少的 package
+也可以手動下載缺少的 package
 
 ## problem history 格式
 
