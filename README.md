@@ -8,6 +8,7 @@ pip install requirements.txt
 
 ## problem history 格式
 
+請見：50_phistory.json、100_phistory.json
 每個 user 的答題例使已經依照**AC 的時間**排好了
 
 ```
