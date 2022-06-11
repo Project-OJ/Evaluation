@@ -1,6 +1,7 @@
 import json
 from tqdm import tqdm
 
+# subs_fname = "data/subs_50.json"
 subs_fname = "data/subs_100.json"
 
 # get filtered pids
@@ -35,6 +36,7 @@ for data in tqdm(sub_data, desc="generating user history"):
                         p_history[uid][pid]["attempt_cnt"] += 1
                         if sub["verdict_id"] == 90: 
                             p_history[uid][pid]["AC"] = True
+                            p_history[uid][pid]["solved_time"] = sub["submission_time"]
                             break
                 else:
                     if sub["verdict_id"] == 90:

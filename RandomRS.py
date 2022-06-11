@@ -12,5 +12,13 @@ class RandomRS:
 
 if __name__ == "__main__":
     rs = RandomRS()
-    rse = RSEvaluator("data/100_phistory.json", rs, ppr=1000, sim_init_length=10)
+
+    # Evaluate users with 50 AC's
+    # rse = RSEvaluator("data/50_phistory.json", rs, ppr=1000, sim_init_length=10)
+    # Evaluate users with 100 AC's
+
+    # The default ppr (problem per round) is set to 10
+    # set it to something like 5000 to get the entire problem history in one round
+    # sim_init_length is the length of the problem history for you to initialize your recommender system
+    rse = RSEvaluator("data/100_phistory.json", rs, ppr=5000, sim_init_length=10)
     result = rse.simulate()
