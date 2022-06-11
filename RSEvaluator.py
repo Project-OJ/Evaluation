@@ -28,7 +28,7 @@ class RSEvaluator:
             sim_ph = dict(list(ph.items())[:self.sim_init_length])
             index = self.sim_init_length
             round_cnt = 0
-            while index < len(ph):
+            while True:
                 round_cnt += 1
                 actual_p = dict(list(ph.items())[index:index + self.ppr])
                 actual_p = keystoint(actual_p)
@@ -37,15 +37,21 @@ class RSEvaluator:
                 # print("recommended:", recom_p)
                 # print("actual:", list(actual_p.keys()))
 
-                self.evalRecom(recom_p, actual_p, ph, score, tp, fp)
+                score, tp, fp = self.evalRecom(recom_p, actual_p, ph, score, tp, fp)
+                
+                if index > len(ph):
+                    break
+
                 index += self.ppr
                 sim_ph.update(actual_p)
-            self.recordScore(score_log, uid, score, tp, fp)
+                self.recordScore(score_log, uid, score, tp, fp)
         return score_log
 
     def evalRecom(self, recom_p, actual_p, p_history, score, tp, fp):
+        match = 0
         for pid in recom_p:
             if pid in actual_p and p_history[str(pid)]["AC"] == True:
+                match += 1
                 tp += 1
                 # If problem is easy for user
                 if p_history[str(pid)]["attempt_cnt"] < DIF_TH1:
@@ -57,11 +63,16 @@ class RSEvaluator:
                 else:
                     score += HARD_SCORE
             elif pid in actual_p and p_history[str(pid)]["AC"] == False:
+                match += 1
                 fp += 1
+            # print("match:", match)
+        return score, tp, fp
 
     def recordScore(self, score_log, uid, score, tp, fp):
-        score_log[uid] = {
+        if uid not in score_log:
+            score_log[uid] = list()
+        score_log[uid].append({
             "score": score,
             "tp": tp,
             "fp": fp
-        }
+        })
