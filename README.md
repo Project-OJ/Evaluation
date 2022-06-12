@@ -42,5 +42,5 @@ python CFRSEval.py 50
 ```
 進行 ac_100 模擬
 ```
-python CFRSEval.py 
+python CFRSEval.py 100
 ```
