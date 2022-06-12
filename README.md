@@ -34,3 +34,13 @@ rs 需要有一個名叫 "getRecom(self, sim_ph)" 的 method </br>
 
 ## 模擬推薦的原始碼
 請見 RSEvaluator.py
+
+## 協同過濾模擬
+進行 ac_50 模擬
+```
+python CFRSEval.py 50
+```
+進行 ac_100 模擬
+```
+python CFRSEval.py 
+```
