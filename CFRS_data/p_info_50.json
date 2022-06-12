@@ -1,0 +1,6560 @@
+{
+  "256": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "131": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "260": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "136": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "137": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "138": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "269": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "273": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "274": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "275": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "276": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 10,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "279": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 336,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "280": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "285": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "288": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "802": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 20,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "163": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "292": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "293": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "166": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "167": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 23,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "36": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "48": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "305": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "944": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "52": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "310": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1206": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1080": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "57": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "314": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "58": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "572": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "56": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "318": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "951": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "320": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "321": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 13,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "322": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "63": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "196": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "192": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "326": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "190": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "74": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "331": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "207": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "208": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "592": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "83": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "84": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "87": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "91": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "92": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1248": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "98": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1252": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 27,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "100": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "101": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "103": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "230": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "996": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "106": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "235": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "236": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "108": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 15,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "111": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 65,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "370": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "242": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "246": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "251": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "514": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "520": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1039": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1040": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1041": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1043": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 13,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "532": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1045": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1051": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "37": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "38": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "44": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1071": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1072": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "47": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "564": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "54": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "72": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1103": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1112": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "602": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "96": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "120": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1150": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1161": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "654": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "189": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1227": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1228": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1241": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1265": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1268": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 13,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1279": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1281": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1287": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "286": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1346": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1350": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "343": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "365": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "386": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "399": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "417": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 23,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "424": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "941": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "429": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1456": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "949": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "956": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "958": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "959": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "964": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "966": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "975": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 10,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "976": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "977": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "979": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "983": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "989": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "992": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "993": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "997": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "998": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "999": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1003": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1004": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1007": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1012": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1015": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1020": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 23,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1023": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1029": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1046": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1056": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1057": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "39": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "41": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1066": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 10,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1067": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "43": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "42": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1070": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1068": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "49": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "562": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1077": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1078": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1081": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1083": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "60": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "61": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "62": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1087": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1088": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "66": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "68": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1095": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "78": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "593": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1119": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1124": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "614": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1128": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1129": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1135": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1137": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1138": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1142": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1143": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1146": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "635": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "144": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "152": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "209": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1305": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "341": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "342": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "347": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "349": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "357": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "358": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "380": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1435": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "943": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "945": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "435": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "947": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "436": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "950": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "957": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "963": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "965": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1480": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "982": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "991": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1006": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1410": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "387": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "775": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1530": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1301": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "277": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "535": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1048": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1183": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1186": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "556": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2733": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2091": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3757": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "427": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "563": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1842": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2623": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2498": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1090": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2757": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "967": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "455": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3146": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1868": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1741": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1872": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "467": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2900": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3286": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2009": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "355": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1642": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "620": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1392": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2673": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2678": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2296": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1913": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "122": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2683": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1549": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1042": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1562": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1563": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1567": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "50": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "568": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "569": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "59": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "571": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "573": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "65": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "578": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "579": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2116": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "70": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "583": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "581": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "585": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "577": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "588": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "79": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1620": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1621": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "90": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "97": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1131": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 14,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "119": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "129": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "642": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "132": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 33,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1162": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1164": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1167": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1686": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1687": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1688": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1712": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1743": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1744": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1748": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 12,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1757": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1768": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "237": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "243": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1788": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "289": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1829": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "821": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "325": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "353": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "896": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1922": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "393": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "406": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "415": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1452": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "475": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2031": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1013": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1021": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1535": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1537": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2443": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "524": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2705": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2706": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2707": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2708": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "534": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2710": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "538": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "539": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2450": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1448": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2866": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "567": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "570": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "450": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "458": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2507": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "459": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "460": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "591": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "469": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1747": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "473": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "474": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "476": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1885": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2400": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1122": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "483": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2403": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "995": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "615": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "490": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "492": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "501": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2682": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "507": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1532": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "509": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "512": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "4352": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "643": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4483": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "521": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2445": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2829": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1680": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1681": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2075": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2459": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1822": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3616": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2339": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4134": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2352": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 13,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4146": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "4147": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "442": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3644": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3520": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4162": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2245": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4167": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1995": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1742": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4174": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2384": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "465": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2004": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1879": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2267": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3549": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3326": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "4191": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2019": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2275": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "870": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1895": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1766": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4199": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2034": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2674": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "4470": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "503": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1662": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "513": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2052": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1927": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1544": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "531": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2457": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1310": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1406": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "40": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "561": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "565": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1592": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "953": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1338": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1475": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1093": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "69": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1226": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "472": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "489": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2544": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1010": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "499": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1271": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "508": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "766": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 16,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1655": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2833": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 17,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1053": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2847": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3873": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "932": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4773": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1832": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1833": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1704": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1836": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2231": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "954": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1342": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 16,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1345": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1474": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 16,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2499": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2113": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2761": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1482": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 13,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "841": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1865": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1614": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1870": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2000": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2126": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1619": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1238": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1239": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "854": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2010": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2402": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2535": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1514": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3060": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1524": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "889": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "516": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1031": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "647": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1160": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "398": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "655": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "291": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 14,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "553": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "426": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "430": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "431": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1846": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1208": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1460": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "948": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "961": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "974": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "471": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 21,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "985": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1244": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1256": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1130": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1520": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 15,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1275": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "383": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2307": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1288": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "892": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2827": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2954": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3085": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3087": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2456": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1311": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2724": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2986": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2474": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2093": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1714": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2999": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3001": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1724": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2877": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3135": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1985": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2762": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3402": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1233": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3794": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2521": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1753": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2905": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1373": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1378": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1637": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3051": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2412": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2542": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1264": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2423": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3710": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "517": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "528": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "55": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1102": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "82": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "595": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1133": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "627": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1141": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "126": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1176": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "668": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "670": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1201": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1220": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1223": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "200": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1234": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1243": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "241": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1335": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "364": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "377": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "379": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "381": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "385": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "395": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "396": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 14,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "418": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "433": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "437": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "440": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "457": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "478": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "482": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "484": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "485": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "382": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "777": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1941": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2078": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "419": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "422": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 14,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "421": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "691": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "307": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "438": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "960": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "448": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 10,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1605": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "211": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1494": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1625": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1761": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 18,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "994": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "622": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1391": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "761": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1019": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2451": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "788": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "919": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2077": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3359": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "673": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1193": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1706": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3503": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1975": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "183": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2619": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3139": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2512": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2261": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1113": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1884": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1246": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1760": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "737": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "104": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3057": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2938": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "515": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1285": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2447": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "272": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2324": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3093": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1304": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2470": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2345": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2864": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2493": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1986": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1861": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3142": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1862": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1866": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2763": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2253": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2383": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1106": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1491": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2133": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2899": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2409": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3053": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1661": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2062": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1302": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 10,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1432": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1047": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "543": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "934": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1979": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1471": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "328": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1900": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1541": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1557": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1437": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2461": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2079": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "931": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "551": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4648": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2092": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2989": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2098": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2484": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1464": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1852": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "324": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2501": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3654": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1998": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1363": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "728": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3675": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2397": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1381": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2408": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "498": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1140": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2042": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1659": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "384": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1414": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1163": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1440": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1725": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "724": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "193": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1730": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "973": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1282": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1552": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1309": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3104": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2465": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3112": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2172": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2515": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1876": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1109": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1751": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1886": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2531": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1644": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1517": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1393": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1402": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1935": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1844": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1919": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2177": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2183": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2823": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1428": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "666": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2612": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1597": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1348": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1871": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3666": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2136": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3678": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "868": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2026": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2927": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3701": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2041": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3836": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1917": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1415": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2201": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "423": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1069": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2349": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2354": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1731": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1990": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "725": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2012": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "227": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2030": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1136": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2160": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1139": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1911": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2176": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1018": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2697": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1576": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "557": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2734": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2736": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "4016": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2114": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2003": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1236": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2655": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "481": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1762": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2661": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3961": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1278": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1923": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1540": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1418": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 15,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1300": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "156": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1696": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "680": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "45": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1843": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "703": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "64": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "834": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "67": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1859": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "81": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 21,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1365": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1756": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1890": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1641": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1519": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1914": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "261": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "262": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "645": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "646": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "649": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "648": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "784": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "791": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "281": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "672": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "168": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "46": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "698": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "444": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "71": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "75": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "76": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "77": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "73": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "464": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "80": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "723": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "491": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "496": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "497": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "502": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "526": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "549": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "586": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1098": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1118": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 12,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1156": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1168": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1179": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1190": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1199": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1218": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1754": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1251": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 12,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1255": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "756": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1269": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1274": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "776": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1292": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "268": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1297": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1312": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1315": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 14,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1332": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1334": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1364": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1374": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1401": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "400": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "401": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1441": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1443": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1449": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1463": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2595": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1587": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1591": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1624": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3166": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1640": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1134": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2159": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3324": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1793": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2315": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2322": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3357": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1881": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3962": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1980": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "542": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1853": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1854": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "838": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "330": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "676": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "462": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1361": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1755": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "363": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1771": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1008": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2834": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2843": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1574": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1075": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2489": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1981": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2624": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2760": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1237": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1111": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2525": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2536": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2930": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1011": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2686": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1280": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2701": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2319": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4280": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1851": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2759": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1994": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1997": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1230": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "978": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2132": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2145": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1250": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1212": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3138": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "327": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3148": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3155": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3156": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 55,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3179": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3185": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 14,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3187": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3191": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3192": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 17,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3197": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2454": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "410": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4900": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "439": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2491": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2904": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "351": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3553": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4835": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3198": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1198": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2054": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 13,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2055": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1295": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2065": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1939": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1943": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "540": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2082": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1188": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2088": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1451": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "428": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1965": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1196": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1584": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1970": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 11,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1968": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1973": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1079": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "700": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2115": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 12,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1734": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1354": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "717": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1360": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1377": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1510": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1903": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1395": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1653": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "378": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1663": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1034": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1946": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1583": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1209": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1849": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1222": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1863": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3170": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "3301": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1910": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3740": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3153": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2644": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "986": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "233": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3176": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3834": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1284": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1356": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "51": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "53": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "85": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "86": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "88": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "89": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "510": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 6,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "681": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "689": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "443": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "826": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 7,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2007": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "95": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "738": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1891": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1892": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "487": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "118": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "762": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "598": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 9,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "121": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "652": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "660": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "151": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "157": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "684": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "206": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "313": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "315": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "354": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "480": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "825": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "970": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1904": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2317": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1170": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "787": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2592": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2614": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2750": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2366": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 26,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2380": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "981": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2398": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2148": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "247": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "250": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "806": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1341": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4685": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "284": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1708": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1841": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1718": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1728": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1489": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 8,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2005": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1240": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1772": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1645": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1658": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1035": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "116": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1153": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "270": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "297": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "506": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1647": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1242": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1784": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "311": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "425": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "609": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1148": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "637": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "640": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1173": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "662": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "165": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "678": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "731": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "226": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "749": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1276": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "768": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "773": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "774": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "780": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "781": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1323": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1351": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1384": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "477": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1033": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1174": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1073": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1217": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1219": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1101": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "984": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1132": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1318": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 20,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "295": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "298": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1837": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "199": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "1492": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1887": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "123": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1657": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2174": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1944": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2463": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "169": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "171": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "173": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "942": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3888": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3249": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "5040": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2353": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 4,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2737": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 2,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2108": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2880": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "4181": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3544": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "2906": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 5,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "5089": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3309": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  },
+  "3565": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 3,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "1266": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2035": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 78,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "2681": {
+    "solved_user_sum": 1,
+    "solved_attempt_sum": 1,
+    "unsolved_user_sum": 0,
+    "unsolved_attempt_sum": 0
+  },
+  "4604": {
+    "solved_user_sum": 0,
+    "solved_attempt_sum": 0,
+    "unsolved_user_sum": 1,
+    "unsolved_attempt_sum": 1
+  }
+}

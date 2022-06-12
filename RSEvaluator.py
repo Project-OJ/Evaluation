@@ -1,7 +1,5 @@
 import json
 
-from numpy import mat
-
 DIF_TH1 = 3
 DIF_TH2 = 5
 EASY_SCORE = 1
