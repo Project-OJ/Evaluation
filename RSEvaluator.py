@@ -19,12 +19,9 @@ class RSEvaluator:
         with open(p_history_fname, 'r') as file:
             self.user_dict = json.load(file)
 
-    def simulate(self):
-        score_log = dict()
+    def simulate(self, onlyAC=False):
+        mpr_log = dict()
         for uid, ph in self.user_dict.items():
-            score = 0   # The score RS earned from this user
-            tp = 0      # True positive (AC'ed and recommended)
-            fp = 0      # False positive (recommended but didn't AC)
             sim_ph = dict(list(ph.items())[:self.sim_init_length])
             index = self.sim_init_length
             round_cnt = 0
@@ -32,47 +29,34 @@ class RSEvaluator:
                 round_cnt += 1
                 actual_p = dict(list(ph.items())[index:index + self.ppr])
                 actual_p = keystoint(actual_p)
-                recom_p = self.rs.getRecom(sim_ph)
+                rankList = self.rs.getRankList(sim_ph)
 
                 # print("recommended:", recom_p)
-                # print("actual:", list(actual_p.keys()))
+                print("actual:", list(actual_p.keys()))
 
-                score, tp, fp = self.evalRecom(recom_p, actual_p, ph, score, tp, fp)
-                
-                if index > len(ph):
-                    break
+                mpr = self.evalRecom(rankList, actual_p, onlyAC)
 
                 index += self.ppr
                 sim_ph.update(actual_p)
-                self.recordScore(score_log, uid, score, tp, fp)
-        return score_log
+                self.recordScore(mpr_log, uid, mpr)
 
-    def evalRecom(self, recom_p, actual_p, p_history, score, tp, fp):
-        match = 0
-        for pid in recom_p:
-            if pid in actual_p and p_history[str(pid)]["AC"] == True:
-                match += 1
-                tp += 1
-                # If problem is easy for user
-                if p_history[str(pid)]["attempt_cnt"] < DIF_TH1:
-                    score += EASY_SCORE
-                # If problem is appropreate for user
-                elif p_history[str(pid)]["attempt_cnt"] < DIF_TH2:
-                    score += APPRO_SCORE
-                # If problem is hard for user
-                else:
-                    score += HARD_SCORE
-            elif pid in actual_p and p_history[str(pid)]["AC"] == False:
-                match += 1
-                fp += 1
-            # print("match:", match)
-        return score, tp, fp
+                if index >= len(ph):
+                    break
+        return mpr_log
 
-    def recordScore(self, score_log, uid, score, tp, fp):
-        if uid not in score_log:
-            score_log[uid] = list()
-        score_log[uid].append({
-            "score": score,
-            "tp": tp,
-            "fp": fp
-        })
+    def evalRecom(self, rank_list, actual_p, p_history, onlyAC=False):
+        # using mean percentile ranking
+        mpr = 0.0
+        for pid in actual_p:
+            if onlyAC is True and p_history[str(pid)]["AC"] == False:
+                break
+            # percentage of the ranking (0% - 100%)
+            mpr += rank_list.index(pid) / (len(rank_list) - 1)
+        # get rank percentage average
+        mpr /= len(actual_p)
+        return mpr
+
+    def recordScore(self, mpr_log, uid, mpr,):
+        if uid not in mpr_log:
+            mpr_log[uid] = list()
+        mpr_log[uid].append(mpr)
