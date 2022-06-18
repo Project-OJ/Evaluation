@@ -12,7 +12,7 @@ pid_list = list()
 p_array = list()
 
 for p in data:
-    if (p[3] > 3000):
+    if (p[3] > 0):
         pid_list.append(p[0])
         p_array.append(p[3])
 

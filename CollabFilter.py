@@ -171,14 +171,14 @@ class CollaborativeFilter:
     def quit(self, err_desc):
         raise SystemExit('\n' + "PROGRAM EXIT: " + err_desc + '\n')
     
-    def getRecom(self, sim_ph):
+    def getRankList(self, sim_ph):
         uid = 0
         k = 120
-        recom_num = 5
+        recom_num = len(self.pid_list)
         self.append_user_data(uid, sim_ph)
         knn = self.k_nearest_neighbors(uid, k)
         result = self.generate_recommendation(uid, knn, recom_num)
-        recom_list = {pid for pid, score in result}
+        recom_list = list({pid for pid, score in result})
         return recom_list
 
 # recommender system test

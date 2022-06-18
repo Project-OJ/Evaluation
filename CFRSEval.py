@@ -27,5 +27,5 @@ elif arg == "100":
 else:
     print("Invalid argument.")
 
-with open("test_result.py", 'w') as file:
+with open("test_result_50.json", 'w') as file:
     json.dump(result, file, indent=2)
