@@ -51,7 +51,11 @@ class RSEvaluator:
             if onlyAC is True and p_history[str(pid)]["AC"] == False:
                 break
             # percentage of the ranking (0% - 100%)
-            mpr += rank_list.index(pid) / (len(rank_list) - 1)
+            try:
+                mpr += rank_list.index(pid) / (len(rank_list) - 1)
+            except ValueError as error:
+                print(error)
+                mpr += 1
         # get rank percentage average
         mpr /= len(actual_p)
         return mpr
